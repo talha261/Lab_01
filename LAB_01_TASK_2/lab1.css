@@ -1,0 +1,31 @@
+.Title {
+    color: blue;
+    font-variant: small-caps;  
+    font-size: 35px;  
+    border-top: 4px solid blue;
+    border-block-end: 4px solid blue;
+    height: 50px;
+}
+
+.Contact {
+    float: right;
+    width:250px;
+    border: 3px solid blue;
+    padding: 20px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.heading1{
+    
+    color: blue;
+    text-decoration: none;
+    border-bottom: 2px solid blue;
+    width:1250px;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri';
+}
+
+.heading2{
+    color: blue;
+}
